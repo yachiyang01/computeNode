@@ -1,0 +1,14 @@
+Name:bfs
+Dataset:1M
+Total_EX:70
+CPU:10
+GPU:20
+CPU:10
+GPU:30
+CPU:20
+Name:bfs
+Dataset:large
+Total_EX:20
+CPU:10
+GPU:20
+CPU:10
